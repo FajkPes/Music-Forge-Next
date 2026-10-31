@@ -1,0 +1,86 @@
+[
+  {
+    "file": "assets\\GeneralUser-GS.sf2",
+    "url": "https://raw.githubusercontent.com/mrbumpy409/GeneralUser-GS/684543d5e5efaef08d02be50dcda8d552478fa60/GeneralUser-GS.sf2",
+    "bytes": 32319396,
+    "sha256": "9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe"
+  },
+  {
+    "file": "assets\\generaluser\\LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/mrbumpy409/GeneralUser-GS/684543d5e5efaef08d02be50dcda8d552478fa60/documentation/LICENSE.txt",
+    "bytes": 2317,
+    "sha256": "7b32efefdf95ce38a043799f0659853ddc00fbaa14d8c50f0aca16b9b8b405be"
+  },
+  {
+    "file": "assets\\generaluser\\README.md",
+    "url": "https://raw.githubusercontent.com/mrbumpy409/GeneralUser-GS/684543d5e5efaef08d02be50dcda8d552478fa60/documentation/README.md",
+    "bytes": 67719,
+    "sha256": "fb23217ca2a9cf199e04aed1b04a7e81e024330411941c3638302e081584c151"
+  },
+  {
+    "file": "assets\\generaluser\\CHANGELOG.md",
+    "url": "https://raw.githubusercontent.com/mrbumpy409/GeneralUser-GS/684543d5e5efaef08d02be50dcda8d552478fa60/documentation/CHANGELOG.md",
+    "bytes": 15928,
+    "sha256": "2ed3138c31d43c8a36e106703679e3ec88bf579da7c34051bd9531ec08939b44"
+  },
+  {
+    "file": "runtime\\fluidsynth.zip",
+    "url": "https://github.com/FluidSynth/fluidsynth/releases/download/v2.6.1/fluidsynth-v2.6.1-win10-x64-cpp11.zip",
+    "bytes": 2727529,
+    "sha256": "fab7a2e4b85675b66970f97a39bbc239729c5e0f237198b5922a6a73cbc8677c"
+  },
+  {
+    "file": "research\\model\\config.json",
+    "url": "https://huggingface.co/MIT/ast-finetuned-audioset-10-10-0.4593/resolve/f826b80d28226b62986cc218e5cec390b1096902/config.json",
+    "bytes": 26763,
+    "sha256": "a93d525511d77e8ecc933d09674b85099815bbbb417c228a4edd655e252fb9ff"
+  },
+  {
+    "file": "research\\model\\preprocessor_config.json",
+    "url": "https://huggingface.co/MIT/ast-finetuned-audioset-10-10-0.4593/resolve/f826b80d28226b62986cc218e5cec390b1096902/preprocessor_config.json",
+    "bytes": 297,
+    "sha256": "8d04ba5a9c6fca5d39d0de2b1fd05ecf79deb589fbba279728bbebac39934231"
+  },
+  {
+    "file": "research\\model\\model.safetensors",
+    "url": "https://huggingface.co/MIT/ast-finetuned-audioset-10-10-0.4593/resolve/f826b80d28226b62986cc218e5cec390b1096902/model.safetensors",
+    "bytes": 346404948,
+    "sha256": "ae0c1e2ad4e1381d851fa9bf298ba13ebc9c5a914cdee2dbe427a6583869924d"
+  },
+  {
+    "file": "research\\model\\README.md",
+    "url": "https://huggingface.co/MIT/ast-finetuned-audioset-10-10-0.4593/resolve/f826b80d28226b62986cc218e5cec390b1096902/README.md",
+    "bytes": 1165,
+    "sha256": "dbc8ce1fc5abd1635d073640d8cb032901bfe264a5e06507f363f10a6112cfc8"
+  },
+  {
+    "file": "assets\\musescore\\MuseScore_General.sf2",
+    "url": "https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/MuseScore_General.sf2",
+    "bytes": 215614036,
+    "sha256": "ee51d2c4b1525e70f19a45909c4fd7a2e26d91d115fa89dbf5a6bc413d8b9bf3"
+  },
+  {
+    "file": "assets\\musescore\\MuseScore_General_License.md",
+    "url": "https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/MuseScore_General_License.md",
+    "bytes": 3419,
+    "sha256": "5ad8d737e13c7f01f5b9674872a82a92b4ba253603e8ed14b9db12293550b4b9"
+  },
+  {
+    "file": "assets\\musescore\\MuseScore_General_Readme.md",
+    "url": "https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/MuseScore_General_Readme.md",
+    "bytes": 5161,
+    "sha256": "e4ee85d097cda49a7926ea73e59ea8b7bb90d6ad715f82d20c6bfddf5dcfeb4c"
+  },
+  {
+    "file": "assets\\musescore\\MuseScore_General_Sample_Sources.csv",
+    "url": "https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/MuseScore_General_Sample_Sources.csv",
+    "bytes": 12817,
+    "sha256": "cbec757614fa47d2ba71a2f1276bf010918261d94987cfb678352e9755e9bdd4"
+  },
+  {
+    "file": "assets\\salamander\\source.tar.xz",
+    "url": "http://freepats.zenvoid.org/Piano/SalamanderGrandPiano/SalamanderGrandPiano-SF2-V3%2B20200602.tar.xz",
+    "bytes": 310397984,
+    "sha256": "15edb061d7ba60d58332f72dba8f8ce40988048cc703f935e6320f37d650e213"
+  }
+]

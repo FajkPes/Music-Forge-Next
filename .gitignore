@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/
+saved-seeds*.json
+assets/**/*.sf2
+assets/*.sf2
+assets/**/*.xz
+runtime/
+*.log
