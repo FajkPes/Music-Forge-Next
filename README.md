@@ -27,6 +27,10 @@ Sound-bank licenses and attribution, including the Salamander piano credit, are 
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/Music-Forge-Next/releases)
 
+## Explore variations and control the mix
+
+The seed is a way to return to a generated composition. **New motif** changes the main melody while preserving other notes; **New sounds** changes the automatic instrument palette while keeping the score and manually chosen instruments. The arrangement uses roles such as drums, bass, chords, lead, atmosphere and transitions, which can pause in quieter sections. Mix changes such as volume and pan respond during playback; changing an instrument reloads that track. A saved project stores settings and seeds rather than the finished audio, so export WAV or Opus when you need an audio file.
+
 ## Credits
 
 **Idea, concept and design:** FajkPes  
