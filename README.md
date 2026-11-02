@@ -26,3 +26,8 @@ After setup, music generation works locally. The interface is currently in Czech
 Sound-bank licenses and attribution, including the Salamander piano credit, are included with the package. See [README-DETAILS.md](README-DETAILS.md) for the original detailed notes.
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/Music-Forge-Next/releases)
+
+## Credits
+
+**Idea, concept and design:** FajkPes  
+**Coding:** ChatGPT Codex, Claude and Google Antigravity
